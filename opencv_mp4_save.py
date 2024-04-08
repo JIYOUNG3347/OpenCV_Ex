@@ -2,7 +2,8 @@ import cv2
 import numpy as np
 
 # Open the video file
-cap = cv2.VideoCapture('http://192.168.0.141:8000/stream.mjpg')
+# Change to your ---
+cap = cv2.VideoCapture('---')
 
 
 #########################################################################
